@@ -1,0 +1,6 @@
+.progress{
+   background-color: rgba(80, 228, 80, 0.514); 
+}
+.frame_address,.frame_university,.frame_section{
+    display: none;
+}
